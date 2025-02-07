@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/CYomUY9.jpeg" alt="Focus Booster Preview" width="350">
+  <img src="https://i.imgur.com/CYomUY9.jpeg" alt="Focus Booster Preview" width="380">
 </p>
 
 
