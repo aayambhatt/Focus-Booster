@@ -29,6 +29,11 @@
    The blocker’s state is saved using Chrome's `chrome.storage` API, ensuring that user preferences persist across sessions.
 
 ## Installation
+- **From the Chrome Web Store:**  
+  [Add Focus Booster to Chrome](#)  
+  *(https://chromewebstore.google.com/detail/focus-booster/gpidflcooieejkcbkchniecpkogfocmi)*
+  
+
 - **For Local Testing:**  
   1. Clone or download the repository.
   2. Open Chrome and navigate to `chrome://extensions/`.
