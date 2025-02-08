@@ -30,8 +30,7 @@
 
 ## Installation
 - **From the Chrome Web Store:**  
-  [Add Focus Booster to Chrome](#)  
-  *(https://chromewebstore.google.com/detail/focus-booster/gpidflcooieejkcbkchniecpkogfocmi)*
+  *https://chromewebstore.google.com/detail/focus-booster/gpidflcooieejkcbkchniecpkogfocmi*
   
 
 - **For Local Testing:**  
